@@ -18,11 +18,9 @@
 
 
 
-<div style="margin-top: 100px; text-align: center;">
-  <h5>
+  <h5 align="center" style="margin-top: 100px; text-align: center;">
     📈 My GitHub Stats
   </h5>
-</div>
 
 <p align="center" style="margin-top: 20px;"> <img src="https://github-readme-stats.vercel.app/api?username=sunupdong&show_icons=true&theme=gotham" alt="sunupdong" />
 
