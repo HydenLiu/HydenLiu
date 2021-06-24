@@ -18,7 +18,7 @@
 - 🌸  Face each day with a smile      
 
 - ⏳   Last every day
-- 👯  mutual improvement
+- 👯  Mutual improvement
 
 
 
