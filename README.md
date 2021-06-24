@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-  <img align="right" alt="GIF" src="./code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="./code.gif?raw=true" width="400" height="260" />
 
 **Languages and Tools:**  
 
@@ -18,11 +18,13 @@
 
 
 
+<div style="margin-top: 20px; text-align: center;">
+  <h5>
+    📈 My GitHub Stats
+  </h5>
+</div>
 
-
-##### 📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sunupdong&show_icons=true&theme=gotham" alt="sunupdong" />
+<p align="center" style="margin-top: 20px;"> <img src="https://github-readme-stats.vercel.app/api?username=sunupdong&show_icons=true&theme=gotham" alt="sunupdong" />
 
 
 
