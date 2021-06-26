@@ -15,9 +15,10 @@
 
 - 🏆  Make Progress Every Day
 
-- 🌸  Face each day with a smile      
+- 🌸  Face each day with a smile
 
 - ⏳   Last every day
+
 - 👯  Mutual improvement
 
 
