@@ -3,7 +3,7 @@
 
   <img align="right" alt="GIF" src="./code.gif?raw=true" width="400" height="260" />
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Asap+Condensed&duration=4000&pause=1000&color=00B2DF&background=5712FF00&width=200&height=30&lines=welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 **Languages and Tools:**  
 
