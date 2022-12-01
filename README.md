@@ -13,7 +13,7 @@
 
 🚧 **My Todoist Stats:**
 
-- 🏆  Make Progress Every Day
+- 🏆  Make progress every day
 
 - 🌸  Face each day with a smile
 
