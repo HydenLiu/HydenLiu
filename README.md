@@ -10,7 +10,7 @@
    <img height="50" src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs,vite,webpack,nodejs,git,angular,astro,html,js,css&perline=7" />
  </a>
 
-#### 🚧 My Todoist Stats:
+#### ✨ My Todoist Stats:
 
 - 🏆  Make progress every day
 
