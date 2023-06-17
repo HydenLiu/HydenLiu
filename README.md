@@ -6,9 +6,7 @@
 
 #### 🔧 Languages and Tools:
 
- <a href="https://skillicons.dev">
-   <img height="50" src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs,vite,webpack,nodejs,git,angular,astro,html,js,css&perline=7" />
- </a>
+<img height="50" src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs,vite,webpack,nodejs,git,angular,astro,html,js,css&perline=7" />
 
 #### ✨ My Todoist Stats:
 
