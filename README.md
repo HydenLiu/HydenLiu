@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Asap+Condensed&duration=4000&pause=1000&color=00B2DF&background=5712FF00&width=200&height=30&lines=welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-#### 🔧 Languages and Tools:
+#### 🔧 Languages and tools:
 
 <img height="50" src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs,vite,webpack,nodejs,git,angular,astro,html,js,css&perline=7" />
 
